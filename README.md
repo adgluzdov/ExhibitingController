@@ -1,6 +1,4 @@
 # ExhibitingController
-Unity 3D placing objects on a plane.
-
+Unity3D placing objects on a plane.
 https://www.youtube.com/watch?v=RKKaNOYKKQM
-
-2019.3.0f1
+Unity3D 2019.3.0f1
